@@ -17,5 +17,10 @@ module.exports = {
       { allowConstantExport: true },
     ],
     "react/prop-types": "off",
+    // treat unused vars as warnings and ignore identifiers that start with _
+    "no-unused-vars": [
+      "warn",
+      { varsIgnorePattern: "^_", argsIgnorePattern: "^_" },
+    ],
   },
 };
