@@ -35,54 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": "98443197"
-    },
-    {
-      "id": "9592",
-      "cityName": "Ejea de los Caballeros",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-12-03T13:47:47.913Z",
-      "notes": "",
-      "position": {
-        "lat": "42.081916678306335",
-        "lng": "-1.2524414062500002"
-      }
-    },
-    {
-      "id": "2ce7",
-      "cityName": "Villavelayo",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-12-03T13:50:58.374Z",
-      "notes": "",
-      "position": {
-        "lat": "42.22851735620852",
-        "lng": "-2.9443359375"
-      }
-    },
-    {
-      "id": "747e",
-      "cityName": "Biosca",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-12-03T13:52:43.778Z",
-      "notes": "",
-      "position": {
-        "lat": "41.82045509614034",
-        "lng": "1.3623046875000002"
-      }
-    },
-    {
-      "id": "7722",
-      "cityName": "Ligurian Sea Cetacean Sanctuary",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2025-12-03T13:55:49.797Z",
-      "notes": "",
-      "position": {
-        "lat": "43.739352079154706",
-        "lng": "7.712402343750001"
-      }
     }
   ]
 }
